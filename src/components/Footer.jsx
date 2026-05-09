@@ -46,4 +46,5 @@ function Footer() {
   );
 }
 
+<!-- edited comment here -->
 export default Footer;
